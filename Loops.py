@@ -43,8 +43,9 @@
 #    print (count)
 #    count += 1
 
-for i in range (1,20):
-    if i % 5 == 0:
-        print ('Pula')
-        continue
-    print (i)
+#for i in range (1,20):
+#    if i % 5 == 0:
+#        print ('Pula')
+#        continue
+#    print (i)
+
